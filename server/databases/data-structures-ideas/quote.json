@@ -1,0 +1,11 @@
+{
+    "id": 0,
+    "quote": "",
+    "detail": "",
+    "ranking": 0,
+    "author": {
+        "id": 0,
+        "fname": "",
+        "lname": ""
+    }
+}
